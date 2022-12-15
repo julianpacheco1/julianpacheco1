@@ -1,6 +1,6 @@
 ##  Hola soy Gaboso :fox_face:
 
-![ Gaboso ](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
+![ Gaboso ](![imggit](https://user-images.githubusercontent.com/111393624/207939229-fa5ed81f-3928-46f9-99e5-2965b5abf689.png)"Gaboso")
 
 
 ###  Mi pila tecnológica
