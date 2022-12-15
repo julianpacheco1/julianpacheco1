@@ -1,6 +1,6 @@
-##  Hola soy Julian Pacheco :fox_face:
+##  Hola soy Gaboso :fox_face:
 
-![ Gaboso ]()
+![ Gaboso ](https://github.com/Gaboso/Gaboso/blob/master/github_cover.png "Gaboso")
 
 : computadora :  _Ingeniero de software en [ Fitnezz.io ](https://github.com/fitnezzio)_ :desert_island:Vive en Floripa :brasil:
 
