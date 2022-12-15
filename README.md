@@ -36,7 +36,7 @@
 
 
 ####  Base de datos
-![ PostgreSQL ]<img height="180px" src= "https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_PostgreSQL_600x400%402x.png"/>)
-![ MongoDb ]<img height="180px" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775"/>
+<img height="120px" src= "https://www.ovhcloud.com/sites/default/files/styles/large_screens_1x/public/2021-09/ECX-1909_Hero_PostgreSQL_600x400%402x.png"/>)
+<img height="120px" src="https://nakedsecurity.sophos.com/wp-content/uploads/sites/2/2017/01/mongodb.png?w=775"/>
 
 
