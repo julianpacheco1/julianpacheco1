@@ -31,6 +31,12 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
           <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span>
       </td>
+        <td width="25%" align="center">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png">
+        </td>
+         <td width="25%" align="center">
+        <img height="64px" src="https://e7.pngegg.com/pngimages/235/872/png-clipart-react-computer-icons-redux-javascript-others-logo-symmetry.png">
+        </td>
     </tr>
     </div>
 
