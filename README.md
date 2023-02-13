@@ -2,7 +2,7 @@
 
 
 <div>
-    <img height="200px" src="https://scontent.frcu1-1.fna.fbcdn.net/v/t39.30808-6/278400769_1206021646895737_4993022541418677238_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=owGsFu5_VqkAX8mgDTq&_nc_ht=scontent.frcu1-1.fna&oh=00_AfBADBwZfKvmc5hOtWICQrqaCPDQPzaN0DvA6X3E3Bbltg&oe=63A0D35F">
+    <img height="200px" src="https://media.istockphoto.com/id/947663966/es/vector/concepto-de-dise%C3%B1o-de-programaci%C3%B3n.jpg?s=612x612&w=0&k=20&c=zuYspiYR9HrFYwEM5BKBNSbo4E0laHgh2RiDynRp_AE=">
 </div>
 
 
